@@ -10,7 +10,6 @@ The data consists of
 1924 companies
 
 **DAX FUNCTIONS USED** (COUNT & IF)
-
 COUNT to get the total number of companies ranked globally
  = count(Top2000CompaniesGlobally[Global Rank])
  ![Screenshot 2024-01-27 010649](https://github.com/Essien-glory/Top-2000-Companies-Globally-in-2020/assets/139914656/5e394253-e7b0-4d72-9748-dad2d5c371cd)
@@ -30,7 +29,6 @@ Pie chart to show the comparison betwwen 2 values
 An Maps to show the continent with the Highest Profit
 
 **INSIGHTS**
-
 
 Total Market value: $37,630 billion
 Total Profit:  $2,359 billion
