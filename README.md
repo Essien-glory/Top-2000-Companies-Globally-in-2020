@@ -23,11 +23,11 @@ profit_size = IF(Top2000CompaniesGlobally[Profits ($billion)] < 1,"low","high")
 
 
 **The following charts were used to visualize the dataset**
-Multi row cards, Cards, table, Funnel chart, Column chart
-Line chart to show the trend overtime
-Slicers to filter
-Pie chart to show the comparison betwwen 2 values
-An Maps to show the continent with the Highest Profit
+Multi row cards, Cards, table, Funnel chart, Column chart,
+Line chart to show the trend overtime,
+Slicers to filter,
+Pie chart to show the comparison betwwen 2 values,
+And Maps to show the continent with the Highest Profit.
 
 **INSIGHTS**
 
@@ -37,7 +37,7 @@ Total Assets:  $152,973 billion
 Total Sales: $37,068 billion
 
 Ranking top 1 in Country is the USA with a total of $11,164 billion dollars.
-with Walmart making the highest sales in 2020, followed by Royal dutch shell.
+With Walmart making the highest sales in 2020, followed by Royal dutch shell.
 North America made the highest Sales as of 2020, using the drill down button, you get to see the country with the highest sales and profit in that continent.
 Exxon mobil makes above 4 billion dollars in profit and is number 1 in terms of profit , followed by apple.
 
@@ -49,4 +49,4 @@ In Africa, South africa had the highest sales in 2020
 In comparison, Total Asset generated is greater than the market value.
 Total Sales made is greater than the profits made.
 
-Filled Map was used to higlight the continent with the most Profit.
+Filled Map was used to higHlight the continent with the most Profit.
