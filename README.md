@@ -12,6 +12,7 @@ The data consists of
 **DAX FUNCTIONS USED** (COUNT & IF)
 COUNT to get the total number of companies ranked globally
  = count(Top2000CompaniesGlobally[Global Rank])
+ 
  ![Screenshot 2024-01-27 010649](https://github.com/Essien-glory/Top-2000-Companies-Globally-in-2020/assets/139914656/5e394253-e7b0-4d72-9748-dad2d5c371cd)
 
 IF was used to get the profit size 
