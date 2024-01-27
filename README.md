@@ -16,6 +16,9 @@ COUNT to get the total number of companies ranked globally
 IF was used to get the profit size 
 profit_size = IF(Top2000CompaniesGlobally[Profits ($billion)] < 1,"low","high")
 
+![Screenshot 2024-01-26 235754](https://github.com/Essien-glory/Top-2000-Companies-Globally-in-2020/assets/139914656/c09c980d-63af-47fe-a010-d684354daf3e)
+
+
 The following charts were used to visualize the dataset
 Multi row cards, Cards, table, Funnel chart, Column chart
 Line chart to show the trend overtime
