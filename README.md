@@ -10,18 +10,19 @@ The data consists of
 1924 companies
 
 **DAX FUNCTIONS USED** (COUNT & IF)
+
 COUNT to get the total number of companies ranked globally
  = count(Top2000CompaniesGlobally[Global Rank])
+ ![Screenshot 2024-01-27 010649](https://github.com/Essien-glory/Top-2000-Companies-Globally-in-2020/assets/139914656/5e394253-e7b0-4d72-9748-dad2d5c371cd)
 
 IF was used to get the profit size 
 profit_size = IF(Top2000CompaniesGlobally[Profits ($billion)] < 1,"low","high")
 
-![Screenshot 2024-01-27 010649](https://github.com/Essien-glory/Top-2000-Companies-Globally-in-2020/assets/139914656/5e394253-e7b0-4d72-9748-dad2d5c371cd)
 ![Screenshot 2024-01-27 010701](https://github.com/Essien-glory/Top-2000-Companies-Globally-in-2020/assets/139914656/f6c3bf77-6ecf-40e0-9605-e9c7886a3c3e)
 
 
 
-The following charts were used to visualize the dataset
+**The following charts were used to visualize the dataset**
 Multi row cards, Cards, table, Funnel chart, Column chart
 Line chart to show the trend overtime
 Slicers to filter
@@ -29,6 +30,8 @@ Pie chart to show the comparison betwwen 2 values
 An Maps to show the continent with the Highest Profit
 
 **INSIGHTS**
+
+
 Total Market value: $37,630 billion
 Total Profit:  $2,359 billion
 Total Assets:  $152,973 billion
