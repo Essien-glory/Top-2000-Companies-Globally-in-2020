@@ -37,7 +37,10 @@ And Maps to show the continent with the Highest Profit.
 
 
 **VISUALIZATION**
-1.
+
+1.Ranking top 1 in Country is the USA with a total of $11,164 billion dollars.
+
+With Walmart making the highest sales in 2020, followed by Royal dutch shell.
 
 ![Screenshot 2024-07-29 142034](https://github.com/user-attachments/assets/4976e175-31e8-4671-98f5-579c417bb897)
 
@@ -47,7 +50,9 @@ And Maps to show the continent with the Highest Profit.
 3.
 ![Screenshot 2024-07-29 141000](https://github.com/user-attachments/assets/9b30169d-d447-4e1d-8397-d8d5274bbf1d)
 
-4.
+4. In comparison, Total Asset generated is greater than the market value.
+
+Total Sales made is greater than the profits made.
 ![Screenshot 2024-07-29 141015](https://github.com/user-attachments/assets/1e3c6b59-1212-4e05-a70a-2e8ccf8fbaa6)
 
 
