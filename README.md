@@ -27,6 +27,7 @@ profit_size = IF(Top2000CompaniesGlobally[Profits ($billion)] < 1,"low","high")
 
 
 
+
 **The following charts were used to visualize the dataset**
 Multi row cards, Cards, table, Funnel chart, Column chart,
 Line chart to show the trend overtime,
@@ -36,9 +37,17 @@ And Maps to show the continent with the Highest Profit.
 
 
 **VISUALIZATION**
-![Screenshot 2024-07-29 140917](https://github.com/user-attachments/assets/b5aa034f-9de0-4da9-943a-1bb24adce9da)
+1.
+
+![Screenshot 2024-07-29 142034](https://github.com/user-attachments/assets/4976e175-31e8-4671-98f5-579c417bb897)
+
+2.
 ![Screenshot 2024-07-29 140946](https://github.com/user-attachments/assets/c531d235-8af5-445a-8ae1-e5c1d70ca796)
+
+3.
 ![Screenshot 2024-07-29 141000](https://github.com/user-attachments/assets/9b30169d-d447-4e1d-8397-d8d5274bbf1d)
+
+4.
 ![Screenshot 2024-07-29 141015](https://github.com/user-attachments/assets/1e3c6b59-1212-4e05-a70a-2e8ccf8fbaa6)
 
 
